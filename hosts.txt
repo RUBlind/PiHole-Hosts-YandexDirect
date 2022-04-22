@@ -22,14 +22,6 @@
 
 0.0.0.0 advertising.yandex.ru
 0.0.0.0 www.advertising.yandex.ru
-0.0.0.0 audience.yandex.ru
-0.0.0.0 www.audience.yandex.ru
-0.0.0.0 direct.yandex.ru
-0.0.0.0 www.direct.yandex.ru
-0.0.0.0 metrika.yandex.ru
-0.0.0.0 www.metrika.yandex.ru
-0.0.0.0 partner.yandex.ru
-0.0.0.0 www.partner.yandex.ru
 0.0.0.0 yandexdatafactory.com
 0.0.0.0 www.yandexdatafactory.com
 0.0.0.0 partner.yandex.ua
@@ -38,8 +30,6 @@
 0.0.0.0 www.metrika.yandex.ua
 0.0.0.0 metrica.yandex.com
 0.0.0.0 www.metrica.yandex.com
-0.0.0.0 metrica.yandex.ru
-0.0.0.0 www.metrica.yandex.ru
 # 0.0.0.0 yastatic.net
 # 0.0.0.0 www.yastatic.net
 0.0.0.0 clck.yandex.ru
@@ -72,7 +62,7 @@
 0.0.0.0 lmlicenses.wip4.adobe.com 
 0.0.0.0 lm.licenses.adobe.com 
 0.0.0.0 activate.adobe.com 
-0.0.0.0 practivate.adobe.com 
+0.0.0.0 practivate.adobe.com
 0.0.0.0 www.airexplorer.net
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
